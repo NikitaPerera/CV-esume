@@ -1,0 +1,271 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* main styles */
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #f5f7fa;
+    width: 1240px;
+    margin: 0 auto;
+}
+
+/* main content styles */
+.main-content{
+    background-color: #ffffff;
+    margin-top: 40px ;
+    margin-bottom: 40px;
+    margin-left: 0px;
+    margin-right: 40px;
+    padding-left: 50px;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    min-height: 800px;
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+/* projects styles */
+.about{
+    margin-top: 100px ;
+    margin-bottom: 40px ;
+    margin-left: px;
+    margin-right: 240px;
+}
+.about-position {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 17px;
+    color: #000000;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.about-user {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;   
+    margin-top: 20px ;
+    margin-bottom: 25px 
+}
+.about-discription {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #595959;
+    width: 500px;
+}
+.title {
+    margin-top: 0px ;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+.projects {
+    margin-top: 40px ;
+    width: 700px;
+}
+.project-item {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000; 
+}
+.ol-pr { 
+    padding: 0;
+    margin-left: 15px;  
+}
+.olpr {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    margin-left: 5px;  
+}
+
+/* work styles */
+.work {
+    margin-top: 50px ;  
+    width: 700px;
+}
+.work-position {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    margin-bottom: -5px;
+    padding-bottom: -100px;
+}
+.organ, .organ-cr{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+}
+.organ-ed {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+}
+.period {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #8f8f8f;   
+    margin-bottom: -5px;
+    padding-bottom: -100px;
+}
+.line {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+}
+
+.work-list {
+    padding: 0;
+    margin-left: 15px; 
+}
+/* education styles */
+.education {
+    margin-top: 45px ;
+    margin-bottom: 60px;
+    width: 700px;
+}
+.couers {
+    margin-top: 45px ;
+    margin-bottom: 60px;
+    width: 700px;
+}
+.list-worl-item {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.educ-pos {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-top: -10px ;
+    margin-bottom: 10px;
+}
+
+.organ-ed {
+    margin-bottom: 10px;
+    margin-top: 10px ;
+}
+/* sidebar styles */
+
+.contacts {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.sidebar {
+    background-color: #1E2939;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 40px;
+    padding-top: 40px;
+    width: 370px;
+    border-radius: 15px 15px 15px 15px;
+}
+
+.sidebar-title {
+    font-size: 20px;
+    color: #ffffff;
+    margin-left: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+}
+.tech-skills {
+    margin-bottom: 50px;
+}
+
+.c {
+    font-size: 15px;
+    color: #ffffffc4;
+    margin-left: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.e {
+    font-size: 15px;
+    color: #ffffffc4;
+    margin-left: 40px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.href {
+    font-size: 15px;
+    color: grey;
+    margin-left: 5px;
+    list-style: none;
+}
+
+.as-li {
+    font-size: 15px;
+    color: rgba(255, 255, 255, 0.855);
+}
+.as-ul {
+    font-size: 15px;
+    color: #FB6D3A;
+    margin-left: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.img {
+    /* margin-bottom: 50px; */
+} 
+
+
+.title:before {
+    content: "";
+    display: block;
+    width: 700px;
+    border-bottom: 3px solid #ded8d8;
+    margin-bottom: 10px;
+}
+
+.work-discription {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #0e0d0d;
+    width: 700px;}
+
+    .href-organ {
+
+        list-style: none;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 20px;
+        color: #FB6D3A;
+    }
