@@ -108,6 +108,15 @@ a {
     margin-bottom: -5px;
     padding-bottom: -100px;
 }
+.work-awards {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #363636fe;
+    margin-bottom: -5px;
+    padding-bottom: -100px;
+}
 .organ, .organ-cr{
     font-style: normal;
     font-weight: 700;
